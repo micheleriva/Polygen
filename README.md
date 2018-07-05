@@ -1,5 +1,7 @@
 # Polygen
 
+# This is a fork of Polygen (https://github.com/alvisespano/Polygen). I just want to rewrite it in ReasonML in order to make it work as a REST API :D
+
 https://github.com/alvisespano/Polygen
 
 Polygen — a first effort towards satyre in computer science.
